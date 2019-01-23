@@ -4,5 +4,5 @@
  * compilateur gcc 7.3.0
 
 ## Installation :
- *  cmake -DCMAKE_INSTALL_PREFIX=/chemin
- * make chemin
+ * `cmake -DCMAKE_INSTALL_PREFIX=/chemin`
+ * `make chemin`
