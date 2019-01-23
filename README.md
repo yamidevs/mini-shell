@@ -1,13 +1,8 @@
 # mini-shell
-<h1>Prérequis :</h1>
-<ul>
-  <li>cmake 3.10</li>
-  <li> compilateur gcc 7.3.0</li>
- </ul>
+## Prérequis :
+ * cmake 3.10
+ * compilateur gcc 7.3.0
 
-<h2>Installation :</h2> 
-<ul>
- <li> cmake -DCMAKE_INSTALL_PREFIX=/chemin </li>
-<li> make chemin</li>
-</ul>
-
+## Installation :
+ *  cmake -DCMAKE_INSTALL_PREFIX=/chemin
+ * make chemin
