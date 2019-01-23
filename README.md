@@ -7,7 +7,7 @@
 
 <h2>installation :</h2> 
 <ul>
- <li cmake -DCMAKE_INSTALL_PREFIX=/chemin </li>
+ <li cmake -DCMAKE_INSTALL_PREFIX= chemin </li>
 <li> make chemin</li>
 </ul>
 
